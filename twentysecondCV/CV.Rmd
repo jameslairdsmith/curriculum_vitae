@@ -4,7 +4,7 @@ position: "Data Scientist"
 #address: ""
 #phone:
 #profilepic: 
-www: jameslairdsmith.netflify.com
+www: jameslairdsmith.netlify.com
 email: "jameslairdsmith@gmail.com"
 twitter: jameslairdsmith
 github: jameslairdsmith
