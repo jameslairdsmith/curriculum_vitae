@@ -4,9 +4,11 @@ author: James Laird-Smith
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
+    css: ["resume", "extra.css"]
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
 ---
+
 
 Aside
 ================================================================================
@@ -80,26 +82,18 @@ Cape Town, South Africa
 
 Specialisation: Finance
 
-### St Peter's College
-
-National Senior Certificate
-
-Johannesburg, South Africa
-
-2004 - 2008
-
-Independent Examination Board (IEB)
 
 Employment History {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
 ### Data Analytics Analyst
 
-Financial Times
+The Financial Times
 
 London, UK
 
-Nov 2018 - 
+Nov 2018 - (present)
+
 
 ### Analyst
 
@@ -109,42 +103,62 @@ London, UK
 
 May 2018 - July 2018
 
-Research Experience {data-icon=laptop}
+### Specialist
+
+Maitland Group South Africa
+
+Cape Town, ZA  
+
+March 2015 - Nov 2017
+
+<br>Maitland Group is a global advisory and administration firm providing third-party 
+fund administration to managers of pension funds, mutual funds, hedge funds and
+private equity funds. Maitland has offices in 13 countries and has $280 billion 
+in assets under administration.
+
+During my time at Maitland, my responsibilities included:
+
+  - Import and maintenance of client reference data.  
+  - The rapid import of financial data from market sources (Bloomberg, Reuters etc).  
+  - Having deep knowledge of internal systems and data-flows.  
+  - Building integration between systems and applications.  
+  - Data collection from external sources.  
+  - Having extensive knowledge on a wide range of financial instruments.  
+  
+My knowledge of the data and internal systems meant that I often had to:
+
+  - Provide analysis and output data for audit and compliance purposes.  
+  - Providing bespoke reporting to clients.  
+  
+My role required that I adapt quickly to new software applications including 
+that provided by:
+
+- FIS and Neoxam (both previously Sungard)  
+- Broadridge Financial Solutions (formally offered by Paladyne Systems)  
+- Microsoft SQL Server  
+
+R Packages {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### Graduate Research Assistant
+### `scheduler` (Author, Maintainer)
 
-Beijing Institute of Genomics, Chinese Academy of Sciences
+A package to make recurring calendar events a little easier by providing a 
+simple grammar for expressing them using R code.
 
-Beijing, China
+N/A
 
-2011 - 2014
+Nov 2018 - (present)
 
-- Performed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.
-- Found EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.
+The package includes functions to:  
 
-### Bioinformatican
+  * Represent all kinds of date elements found in the `lubridate`
+    package: years, months, weeks, days, weekdays, quarters, semesters etc.  
+  * Represent dates in terms of their relations to one
+    another, such as the "third Friday of July" or the "last Thursday in August".  
+  * Specify ranges of dates, such as "after the first Monday 
+    in July" but "before the last weekday of August".  
+  * Compose the above elements together in arbitrarily complex patterns.  
 
-My Health Gene Technology Co., Ltd.
-
-Beijing, China
-
-2015 - 2016
-
-- Investigated how cancer cells spread to other parts of the body at the single cell level.
-
-### Visiting Scientist
-
-University of Alabama at Birmingham
-
-AL, USA
-
-2016 - 2018
-
-- Investigated the role of mitochondria in development of cancer.
-- Investigated the evolution of genome architecture and its role in important evolutionary events.
-- Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome.
-  
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -179,7 +193,7 @@ Beijing, China
 :::
 
 
-Teaching Experience {data-icon=chalkboard-teacher}
+Speech & Debate Achievements {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
 ### Introduction to R Language for Beginners.
@@ -199,25 +213,59 @@ AL, USA
 2016 - 2017
 
 
-Selected Publications and Posters {data-icon=file}
+Academic Publication {data-icon=file}
 --------------------------------------------------------------------------------
 
-### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
+### A study of total beta specification through symmetric regression: the case of the Johannesburg Stock Exchange
 
-Poster for 2013 International Conference of Genomics
-
-Qingdao, China
-
-2014
-
-**Yu L**, Chen B, Zhang Z.
-
-### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
-
-J Cell Sci. 2016 May 15;129(10):2075-84.
+Environ Syst Decis (2016) 36: 114
 
 N/A
 
-2016 
+June 2016
 
-Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
+**Laird-Smith, J.**, Meyer, K. & Rajaratnam, K.
+
+This journal article is a modified form of the project I completed in the final 
+year of my undergraduate degree. The research examines the need for new 
+methodology and specification for the CAPM beta parameter on the Johannesburg 
+Stock Exchange (JSE). It is available through the Springer online portal.
+
+Master's Research {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Market Betas on the JSE: Market Segmentation, Estimation & Empirical Evaluation
+
+MCom Dissertation Topic at the University of Cape Town
+
+N/A
+
+2015 - 2017
+
+**Supervisor: Kanshukan Rajaratnam**
+
+This dissertation was submitted as my M.Com (Finance) degree requirement at the
+University of Cape Town (UCT) and as such it is available online from UCT Libraries
+under their open access policy.
+
+The dissertation uses **statistical methods** and in particular **Factor Models** 
+to:
+
+  - Discover variables that can be used as predictors of investment return.  
+  - Simulate and compare a large number of trading strategies.  
+  - Conduct testing to make models more robust and consistent.  
+  - Monitor model performance over time.  
+  - Correct for errors and changes that arise in model specification.  
+
+These can be applied to:
+
+ - The analysis of quantitative data in other fields. 
+ - Gain a deeper understanding of other financial markets and industries.  
+ 
+The process of writing a dissertation has meant I have skills:
+Learning new concepts quickly.
+
+  - Conducting research in a way that is comprehensive and detailed.  
+  - Writing reports that are clear and authoritative.  
+  - Reading and summarising large amounts of information in a short time.  
+  - Managing time and meeting deadlines.  
