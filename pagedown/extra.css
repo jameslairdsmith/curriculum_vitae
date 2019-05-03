@@ -1,3 +1,5 @@
 .blocks {
   break-inside: avoid;
 }
+
+[data-id="main"] li  { margin-left: 20px; }
