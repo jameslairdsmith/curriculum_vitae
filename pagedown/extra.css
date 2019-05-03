@@ -2,4 +2,18 @@
   break-inside: avoid;
 }
 
-[data-id="main"] li  { margin-left: 20px; }
+[data-id="main"] li  {
+  margin-left: 20px; 
+  list-style-position: inside;
+}
+
+.details h3 {
+    margin-bottom: 0.25rem;
+}
+
+ul li{
+  list-style-position: inside;
+  margin-left: 20px;
+}
+
+[data-id="main"] li::before {margin-left: -7pt;}

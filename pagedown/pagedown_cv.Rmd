@@ -86,7 +86,7 @@ Employment History {data-icon=suitcase}
 
 ### Data Analytics Analyst
 
-The Financial Times
+The _Financial Times_ (FT)
 
 London, UK
 
@@ -101,7 +101,7 @@ During my time at the FT, my responsibilities included:
 
 ### Analyst
 
-ICBC Standard Bank
+_ICBC Standard Bank_
 
 London, UK
 
@@ -109,7 +109,7 @@ May 2018 - July 2018
 
 ### Specialist
 
-Maitland Group South Africa
+_Maitland Group South Africa_
 
 Cape Town, ZA  
 
