@@ -16,4 +16,4 @@ ul li{
   margin-left: 20px;
 }
 
-[data-id="main"] li::before {margin-left: -7pt;}
+[data-id="main"] li::before {margin-left: -6.5pt;}
