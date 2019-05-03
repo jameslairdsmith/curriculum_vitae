@@ -11,9 +11,6 @@
     margin-bottom: 0.25rem;
 }
 
-ul li{
-  list-style-position: inside;
-  margin-left: 20px;
-}
+
 
 [data-id="main"] li::before {margin-left: -6.5pt;}
