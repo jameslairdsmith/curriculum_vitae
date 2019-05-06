@@ -13,6 +13,14 @@
 
 [data-id="main"] li::before {margin-left: -6.5pt;}
 
-.details .concise ul {
+/*.details .concise ul {
     padding-top: 9px;
+} */
+
+.details .place {
+    margin-bottom: 0.4rem;
+}
+
+.details p {
+    margin-top: 0px;
 }

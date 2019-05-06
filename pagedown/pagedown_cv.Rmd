@@ -92,7 +92,7 @@ London, UK
 
 Nov 2018 - (present)
 
-<br>I have various responsibilities
+I have various responsibilities
 
 During my time at the FT, my responsibilities included:
 
@@ -107,6 +107,22 @@ London, UK
 
 May 2018 - July 2018
 
+ICBCS is a financial markets and commodities bank based in London and with 
+offices all around the world. The Client Referential Data (CRD) team is 
+responsible for managing client static and reference data used across the bank.
+
+My responsibilities include:  
+
+ - Capture and maintenance of client data and settlement instructions.
+ - Managing subscriptions from market data sources.
+ - Perform reconciliations between internal systems.
+ - Having knowledge of internal data flows.
+
+Being close to the company’s data meant I was in a position to:  
+
+ - Assist colleagues from other teams regarding business rules and information 
+   flows.
+
 ### Specialist
 
 _Maitland Group South Africa_
@@ -115,7 +131,7 @@ Cape Town, ZA
 
 Mar 2015 - Nov 2017
 
-<br>Maitland Group is a global advisory and administration firm providing third-party 
+Maitland Group is a global advisory and administration firm providing third-party 
 fund administration to managers of pension funds, mutual funds, hedge funds and
 private equity funds. Maitland has offices in 13 countries and has $280 billion 
 in assets under administration.
