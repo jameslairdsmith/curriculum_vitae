@@ -92,13 +92,17 @@ London, UK
 
 Nov 2018 - (present)
 
-The FT has 600 journalists that work in 40 bureaux around the 
-world. We have one million paid subscribers.
+The FT has over 600 journalists that work in 40 bureaux around the 
+world. We have over one million paid subscribers. The team in which I work is
+called _Customer Analytics_; we are responsible for the collection, management 
+and analysis of the FT's internal data.
 
 During my time at the FT, my responsibilities included:
 
   - Product initive scoring and prioritisation.
   - Conducting analysis customer analytics.
+  - Making recommendations on the basis of existing bodies of analysis.
+  - Segmenting and targeting and  customers based on reference and usage data.
 
 
 ### Analyst
@@ -182,57 +186,63 @@ The package includes functions to:
   * Compose the above elements together in arbitrarily complex patterns.  
 
 
-Professional Experience {data-icon=suitcase}
+Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Data Scientist, intern
+### Economics Tutor
 
-SupStat Inc.
+University of Cape Town
 
-Beijing, China
+Cape Town, South Africa
+
+2010 - 2016
+
+::: concise
+- Microeconomics
+- Macroeconomics
+- Microeconomics II (Intermediate)
+- Macroeconomics II (Intermediate)
+:::
+
+### Head Tutor
+
+Smuts Hall Residence
+
+Cape Town, South Africa
+
+2010
+
+- Recruitment and coordination of all residence tutoring.
+
+
+Speech & Debate Achievements {data-icon=comments}
+--------------------------------------------------------------------------------
+
+### Finalist
+
+South African National Universities Debating Championships (SANUDC)
+
+Cape Town, South Africa
 
 2014
 
-::: concise
-- Taught R language to beginners. 
-- Wrote Shiny app demos.
-- Converted statistical tutorials from SPSS to R language.
-:::
+Also 2nd-top team and semi-finalist, Botswana 2015.
 
-### Bioinformatician
+### Top breaking team
 
-My Health Gene Technology Co., Ltd.
+Pan African Universities Debating Championships
 
-Beijing, China
+Pretoria, South Africa
 
-2015 - 2016
+2011
 
-::: concise
-- Analyzed whole-exome sequencing data. 
-- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
-- Studied tumor metastasis and wrote research reports. 
-- Also did case studies to identify the genetic defect causing rare disease.
-:::
+### Semi-final judge
 
+World Universities Debating Championships
 
-Speech & Debate Achievements {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
+Cape Town, South Africa
 
-### Introduction to R Language for Beginners.
-
-Instructor of R and Data Mining Training Courses at SupStat Inc.
-
-Beijing, China
-
-2014
-
-### Computational Biology and Bioinformatics.
-
-Teaching assistant of GBS CB2-201 courses at UAB
-
-AL, USA
-
-2016 - 2017
+2019
 
 
 Academic Publication {data-icon=file}
