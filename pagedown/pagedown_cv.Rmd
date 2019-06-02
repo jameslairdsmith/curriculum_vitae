@@ -121,13 +121,8 @@ My responsibilities include:
 
  - Capture and maintenance of client data and settlement instructions.
  - Managing subscriptions from market data sources.
- - Perform reconciliations between internal systems.
- - Having knowledge of internal data flows.
+ - Performing reconciliations between internal systems.
 
-Being close to the company’s data meant I was in a position to:  
-
- - Assist colleagues from other teams regarding business rules and information 
-   flows.
 
 ### Specialist
 
@@ -163,7 +158,7 @@ that provided by:
 - Broadridge Financial Solutions (formally offered by Paladyne Systems)  
 - Microsoft SQL Server  
 
-R Packages {data-icon=laptop}
+R Packages {data-icon=laptop .break-after-me}
 --------------------------------------------------------------------------------
 
 ### `scheduler` (Author, Maintainer)
@@ -245,7 +240,7 @@ Cape Town, South Africa
 2019
 
 
-Academic Publication {data-icon=file}
+Academic Publication {data-icon=file .break-after-me}
 --------------------------------------------------------------------------------
 
 ### A study of total beta specification through symmetric regression: the case of the Johannesburg Stock Exchange
