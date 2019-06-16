@@ -20,7 +20,7 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fas fa-globe"></i> [Website](jameslairdsmith.netlify.com)
+- <i class="fas fa-globe"></i> [Website](www.jameslairdsmith.netlify.com)
 - <i class="fa fa-github"></i> [Github](https://github.com/jameslairdsmith)
 - <i class="fa fa-flickr"></i> [Flickr](flickr.com/photos/128032987@N05/)
 - <i class="fa fa-instagram"></i> [Instagram](instagram.com/jameslairdsmith/)
