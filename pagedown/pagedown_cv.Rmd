@@ -20,13 +20,14 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> [jameslairdsmith@gmail.com](jameslairdsmith@gmail.com)
+- <i class="fas fa-globe"></i> [Website](jameslairdsmith.netlify.com)
 - <i class="fa fa-github"></i> [Github](https://github.com/jameslairdsmith)
 - <i class="fa fa-flickr"></i> [Flickr](flickr.com/photos/128032987@N05/)
 - <i class="fa fa-instagram"></i> [Instagram](instagram.com/jameslairdsmith/)
 - <i class="fa fa-reddit-alien"></i> [Reddit](reddit.com/user/jameslairdsmith)
 - <i class="fa fa-stack-overflow"></i> [Stack Overflow](stackoverflow.com/users/9467673/james-laird-smith?tab=profile)
 - <i class="fa fa-twitter"></i> [Twitter](twitter.com/jameslairdsmith)
+- <i class="fa fa-envelope"></i> [jameslairdsmith@gmail.com](jameslairdsmith@gmail.com)
 
 
 
