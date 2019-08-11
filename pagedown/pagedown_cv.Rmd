@@ -3,6 +3,7 @@ title: "James Laird-Smith's resume"
 author: James Laird-Smith
 date: "`r Sys.Date()`"
 output:
+  output_dir: "docs"
   pagedown::html_resume:
     css: ["resume", "extra.css"]
     # set it to true for a self-contained HTML page but it'll take longer to render
