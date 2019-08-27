@@ -101,7 +101,7 @@ and analysis of the FT's internal data.
 During my time at the FT, my responsibilities included:
 
   - Product initive scoring and prioritisation.
-  - Conducting analysis customer analytics.
+  - Conducting analysis on the FT's products.
   - Making recommendations on the basis of existing bodies of analysis.
   - Segmenting and targeting and  customers based on reference and usage data.
 
