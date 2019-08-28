@@ -13,8 +13,8 @@ output:
 Aside
 ================================================================================
 
+![James Laird-Smith](https://raw.githubusercontent.com/jameslairdsmith/curriculum_vitae/master/photos/DA11975-007%20copy%202.jpg){width=80%}
 
-![James Laird-Smith](https://user-images.githubusercontent.com/12127550/58372726-1c734a00-7f11-11e9-9b6d-e3b509f04688.png){width=80%}
 
 
 Contact Info {#contact}
