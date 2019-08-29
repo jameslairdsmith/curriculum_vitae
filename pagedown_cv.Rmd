@@ -30,6 +30,11 @@ Contact Info {#contact}
 - <i class="fa fa-envelope"></i> [jameslairdsmith@gmail.com](jameslairdsmith@gmail.com)
 
 
+Social {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-instagram"></i> [Instagram](instagram.com/jameslairdsmith/)
+- <i class="fa fa-reddit-alien"></i> [Reddit](reddit.com/user/jameslairdsmith)
 
 
 Skills {#skills}
