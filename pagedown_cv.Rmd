@@ -10,6 +10,7 @@ output:
 ---
 
 
+
 Aside
 ================================================================================
 
@@ -80,6 +81,76 @@ Cape Town, South Africa
 
 Specialisation: Finance
 
+::: concise
+  - Research survey statistics
+  - Inferential statistics
+  - Advanced micro and macroeconomics
+  - Econometrics
+:::
+
+Programming Skills {data-icon=code-branch}
+--------------------------------------------------------------------------------
+
+### R
+
+*Level: advanced*
+
+N/A
+
+N/A
+
+::: concise
+- S3
+:::
+
+### JavaScript (for visualisation)
+
+*Level: intermediate*
+
+N/A
+
+N/A
+
+::: concise
+- d3.js
+- Vega and Vega-Lite
+:::
+
+### Python (for data science)
+
+*Level: intermediate*
+
+N/A
+
+Various years
+
+::: concise
+- pandas
+- Matplotlib
+- statsmodels
+:::
+
+### Git (and Github)
+
+*Level: intermediate*
+
+N/A
+
+::: concise
+- Handling pull requests
+:::
+
+### HTML and CSS
+
+*Level: beginner*
+
+N/A
+
+N/A
+
+::: concise
+- Hugo
+:::
 
 Employment History {data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -161,10 +232,11 @@ that provided by:
 R Packages {data-icon=laptop .break-after-me}
 --------------------------------------------------------------------------------
 
-### `scheduler` (Author, Maintainer)
+### **`gs`**: (author, maintainer).
 
-A package to make recurring calendar events a little easier by providing a 
-simple grammar for expressing them using R code.
+A grammar of recurring calendar events.
+A package to make recurring calendar events a little easier 
+by providing a simple grammar for expressing them using R code.
 
 N/A
 
