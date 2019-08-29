@@ -4,11 +4,10 @@ author: James Laird-Smith
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
-    css: ["resume", "extra.css"]
+    css: ["resume", "extra.css", "css/academicons.min.css"]
     # set it to true for a self-contained HTML page but it'll take longer to render
-    self_contained: true
+    self_contained: false
 ---
-
 
 
 Aside
@@ -27,6 +26,7 @@ Contact Info {#contact}
 - <i class="fa fa-reddit-alien"></i> [Reddit](reddit.com/user/jameslairdsmith)
 - <i class="fa fa-stack-overflow"></i> [Stack Overflow](stackoverflow.com/users/9467673/james-laird-smith?tab=profile)
 - <i class="fa fa-twitter"></i> [Twitter](twitter.com/jameslairdsmith)
+- <i class="ai ai-google-scholar"></i> [Google Scholar](//scholar.google.com/citations?user=-5uCUpQAAAAJ&hl=en&oi=ao)
 - <i class="fa fa-envelope"></i> [jameslairdsmith@gmail.com](jameslairdsmith@gmail.com)
 
 
