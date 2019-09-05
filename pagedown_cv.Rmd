@@ -20,14 +20,24 @@ Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fas fa-globe"></i> [Website](https://jameslairdsmith.netlify.com)
-- <i class="fa fa-github"></i> [Github](https://github.com/jameslairdsmith)
-- <i class="fa fa-flickr"></i> [Flickr](flickr.com/photos/128032987@N05/)
-- <i class="fa fa-instagram"></i> [Instagram](instagram.com/jameslairdsmith/)
-- <i class="fa fa-reddit-alien"></i> [Reddit](reddit.com/user/jameslairdsmith)
-- <i class="fa fa-stack-overflow"></i> [Stack Overflow](stackoverflow.com/users/9467673/james-laird-smith?tab=profile)
-- <i class="fa fa-twitter"></i> [Twitter](twitter.com/jameslairdsmith)
-- <i class="ai ai-google-scholar"></i> [Google Scholar](//scholar.google.com/citations?user=-5uCUpQAAAAJ&hl=en&oi=ao)
 - <i class="fa fa-envelope"></i> [jameslairdsmith@gmail.com](jameslairdsmith@gmail.com)
+
+
+Development & academic {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-github"></i> [Github](https://github.com/jameslairdsmith)
+- <i class="fa fa-stack-overflow"></i> [Stack Overflow](//stackoverflow.com/users/9467673/james-laird-smith?tab=profile)
+- <i class="ai ai-google-scholar"></i> [Google Scholar](//scholar.google.com/citations?user=-5uCUpQAAAAJ&hl=en&oi=ao)
+- <i class="ai ai-orcid"></i> [ORCID](//orcid.org/0000-0003-1175-4046)
+- <i class="ai ai-springer"></i> [Springer](https://link.springer.com/article/10.1007/s10669-016-9596-3)
+
+<!-- Photography {#contact} -->
+<!-- -------------------------------------------------------------------------------- -->
+
+<!-- - <i class="fa fa-instagram"></i> [Instagram](instagram.com/jameslairdsmith/) -->
+<!-- - <i class="fa fa-flickr"></i> [Flickr](flickr.com/photos/128032987@N05/) -->
+<!-- - <i class="fa fa-500px"></i> [500px](500px.com/jameslaird-smith) -->
 
 
 Social {#contact}
@@ -35,16 +45,17 @@ Social {#contact}
 
 - <i class="fa fa-instagram"></i> [Instagram](instagram.com/jameslairdsmith/)
 - <i class="fa fa-reddit-alien"></i> [Reddit](reddit.com/user/jameslairdsmith)
+- <i class="fa fa-twitter"></i> [Twitter](twitter.com/jameslairdsmith)
 
 
-Skills {#skills}
---------------------------------------------------------------------------------
+<!-- Skills {#skills} -->
+<!-- -------------------------------------------------------------------------------- -->
 
-- R
+<!-- - R -->
 
-- Finance
+<!-- - Finance -->
 
-- Visualisation
+<!-- - Visualisation -->
 
 
 Disclaimer {#disclaimer}
@@ -74,7 +85,8 @@ Cape Town, South Africa
 
 2015 - 2017
 
-Thesis: _Market Betas on the JSE: Market Segmentation, Estimation & Empirical Evaluation_
+Thesis: _Market Betas on the JSE:   
+Market Segmentation, Estimation & Empirical Evaluation_
 
 ### University of Cape Town
 
@@ -107,6 +119,7 @@ N/A
 ::: concise
 - S3
 :::
+- Package development using `usethis`, `testthat`, `roxygen2`, `pkgdown`.
 
 ### JavaScript (for visualisation)
 
@@ -127,7 +140,7 @@ N/A
 
 N/A
 
-Various years
+Various years - present
 
 ::: concise
 - pandas
@@ -155,6 +168,7 @@ N/A
 
 ::: concise
 - Hugo
+- Deployment with *Netlify*
 :::
 
 Employment History {data-icon=suitcase}
