@@ -319,7 +319,7 @@ to:
 <!--   - Reading and summarising large amounts of information in a short time.   -->
 <!--   - Managing time and meeting deadlines.  -->
 
-<i class="fab fa-r-project"></i> R Packages {data-icon=blank} 
+<i class="fab fa-r-project"></i> R Packages {data-icon=blank .break-after-me} 
 --------------------------------------------------------------------------------
 
 ### **`gs`**: (author, maintainer).
