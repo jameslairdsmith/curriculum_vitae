@@ -32,3 +32,12 @@
 .break-after-me {
   break-after: page;
 }
+
+/*
+.fa-s-project:before{content:"\a";}
+
+
+.fa-blank:before{
+  visibility:hidden;
+  border:"transparent";
+}*/

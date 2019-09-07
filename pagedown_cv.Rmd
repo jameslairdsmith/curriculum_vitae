@@ -6,7 +6,7 @@ output:
   pagedown::html_resume:
     css: ["resume", "extra.css", "css/academicons.min.css"]
     # set it to true for a self-contained HTML page but it'll take longer to render
-    self_contained: false
+    self_contained: true
 ---
 
 
@@ -98,11 +98,15 @@ Cape Town, South Africa
 
 Specialisation: Finance
 
+Completed higher-level courses in:
+
 ::: concise
-  - Research survey statistics
-  - Inferential statistics
+  - Research and survey statistics
   - Advanced micro and macroeconomics
   - Econometrics
+  - Applied investments
+  - Alternative investments
+  - Financial research
 :::
 
 Programming Skills {data-icon=code-branch}
@@ -114,12 +118,43 @@ Programming Skills {data-icon=code-branch}
 
 N/A
 
-N/A
+2014 - (present)
 
 ::: concise
-- S3
+- Base
+- Tidyverse
+- Modelling
+- Visualisation
+- OOP using S3
+- Functional programming
+- Package development
+- Performance optimisation
 :::
-- Package development using `usethis`, `testthat`, `roxygen2`, `pkgdown`.
+
+### SQL
+
+*Level: advanced*
+
+N/A
+
+N/A
+
+
+### Git (and Github)
+
+*Level: intermediate*
+
+N/A
+
+2018 - (present)
+
+::: concise
+- Creating repos
+- Push and pull
+- Branches
+- Forking
+- Pull requests
+:::
 
 ### JavaScript (for visualisation)
 
@@ -127,7 +162,7 @@ N/A
 
 N/A
 
-N/A
+2018 - (present)
 
 ::: concise
 - d3.js
@@ -140,7 +175,7 @@ N/A
 
 N/A
 
-Various years - present
+2015 - 2017
 
 ::: concise
 - pandas
@@ -148,35 +183,26 @@ Various years - present
 - statsmodels
 :::
 
-### Git (and Github)
+<!-- ### HTML and CSS -->
 
-*Level: intermediate*
+<!-- *Level: beginner* -->
 
-N/A
+<!-- N/A -->
 
-::: concise
-- Handling pull requests
-:::
+<!-- 2018 - (present) -->
 
-### HTML and CSS
+<!-- ::: concise -->
+<!-- - Hugo -->
+<!-- - Deployment with *Netlify* -->
+<!-- - Deployment with *Github pages* -->
+<!-- ::: -->
 
-*Level: beginner*
-
-N/A
-
-N/A
-
-::: concise
-- Hugo
-- Deployment with *Netlify*
-:::
-
-Employment History {data-icon=suitcase}
+Employment History {data-icon=suitcase .break-after-me}
 --------------------------------------------------------------------------------
 
-### Customer Analytics Analyst
+### Analyst (Customer Analytics)
 
-The _Financial Times_ (FT)
+_The Financial Times_ (FT)
 
 London, UK
 
@@ -187,17 +213,16 @@ world. We have over one million paid subscribers. The team in which I work is
 called _Customer Analytics_; we are responsible for the collection, management 
 and analysis of the FT's internal data.
 
-During my time at the FT, my responsibilities included:
+My responsibilities have included:
 
-  - Product initive scoring and prioritisation.
-  - Conducting analysis on the FT's products.
-  - Making recommendations on the basis of existing bodies of analysis.
-  - Segmenting and targeting and  customers based on reference and usage data.
-
+  - Product initiative scoring and prioritisation.
+  - Modelling the FT's subscriber retention.
+  - Evaluating business changes using financial models.
+  - Segmenting and targeting and customers using data.
 
 ### Analyst
 
-_ICBC Standard Bank_
+_ICBC Standard Bank_ (ICBCS)
 
 London, UK
 
@@ -207,7 +232,7 @@ ICBCS is a financial markets and commodities bank based in London and with
 offices all around the world. The Client Referential Data (CRD) team is 
 responsible for managing client static and reference data used across the bank.
 
-My responsibilities include:  
+My responsibilities included:  
 
  - Capture and maintenance of client data and settlement instructions.
  - Managing subscriptions from market data sources.
@@ -227,28 +252,74 @@ fund administration to managers of pension funds, mutual funds, hedge funds and
 private equity funds. Maitland has offices in 13 countries and has $280 billion 
 in assets under administration.
 
-During my time at Maitland, my responsibilities included:
+My responsibilities included:
 
   - Import and maintenance of client reference data.  
   - The rapid import of financial data from market sources (Bloomberg, Reuters etc).  
-  - Having deep knowledge of internal systems and data-flows.  
   - Building integration between systems and applications.  
-  - Data collection from external sources.  
   - Having extensive knowledge on a wide range of financial instruments.  
-  
-My knowledge of the data and internal systems meant that I often had to:
-
   - Provide analysis and output data for audit and compliance purposes.  
   - Providing bespoke reporting to clients.  
-  
-My role required that I adapt quickly to new software applications including 
-that provided by:
+  - Using systems from FIS and Neoxam (both previously Sungard)
+  - Using systems from Broadridge Financial Solutions (formally called 
+    Paladyne Systems)
+    
+Academic Publication {data-icon=file}
+--------------------------------------------------------------------------------
 
-- FIS and Neoxam (both previously Sungard)  
-- Broadridge Financial Solutions (formally offered by Paladyne Systems)  
-- Microsoft SQL Server  
+### A study of total beta specification through symmetric regression: the case of the Johannesburg Stock Exchange
 
-R Packages {data-icon=laptop .break-after-me}
+Environ Syst Decis (2016) 36: 114
+
+N/A
+
+June 2016
+
+**Laird-Smith, J.**, Meyer, K. & Rajaratnam, K.
+
+This journal article is a modified form of the project I completed in the final 
+year of my undergraduate degree. The research examines the need for new 
+methodology and specification for the CAPM beta parameter on the Johannesburg 
+Stock Exchange (JSE). It is available through the Springer online portal.
+
+Master's Research {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Market Betas on the JSE: Market Segmentation, Estimation & Empirical Evaluation
+
+MCom Dissertation Topic at the University of Cape Town
+
+N/A
+
+2015 - 2017
+
+**Supervisor: Kanshukan Rajaratnam**
+
+This dissertation was submitted as my M.Com (Finance) degree requirement at the
+University of Cape Town (UCT) and as such it is available online from UCT 
+Libraries under their open access policy.
+
+The dissertation uses **statistical methods** and in particular **Factor Models** 
+to:
+
+  - Discover variables that can be used as predictors of investment return.  
+  - Simulate and compare a large number of trading strategies.  
+  - Conduct testing to make models more robust and consistent.  
+
+<!-- These can be applied to: -->
+
+<!--  - The analysis of quantitative data in other fields.  -->
+<!--  - Gain a deeper understanding of other financial markets and industries.   -->
+
+<!-- The process of writing a dissertation has meant I have skills: -->
+<!-- Learning new concepts quickly. -->
+
+<!--   - Conducting research in a way that is comprehensive and detailed.   -->
+<!--   - Writing reports that are clear and authoritative.   -->
+<!--   - Reading and summarising large amounts of information in a short time.   -->
+<!--   - Managing time and meeting deadlines.  -->
+
+<i class="fab fa-r-project"></i> R Packages {data-icon=blank} 
 --------------------------------------------------------------------------------
 
 ### **`gs`**: (author, maintainer).
@@ -272,7 +343,7 @@ The package includes functions to:
   * Compose the above elements together in arbitrarily complex patterns.  
 
 
-Teaching Experience {data-icon=chalkboard-teacher}
+<i class="fas fa-chalkboard-teacher"></i> Teaching Experience {data-icon=blank}
 --------------------------------------------------------------------------------
 
 ### Economics Tutor
@@ -330,60 +401,4 @@ Cape Town, South Africa
 
 2019
 
-
-Academic Publication {data-icon=file .break-after-me}
---------------------------------------------------------------------------------
-
-### A study of total beta specification through symmetric regression: the case of the Johannesburg Stock Exchange
-
-Environ Syst Decis (2016) 36: 114
-
-N/A
-
-June 2016
-
-**Laird-Smith, J.**, Meyer, K. & Rajaratnam, K.
-
-This journal article is a modified form of the project I completed in the final 
-year of my undergraduate degree. The research examines the need for new 
-methodology and specification for the CAPM beta parameter on the Johannesburg 
-Stock Exchange (JSE). It is available through the Springer online portal.
-
-Master's Research {data-icon=file}
---------------------------------------------------------------------------------
-
-### Market Betas on the JSE: Market Segmentation, Estimation & Empirical Evaluation
-
-MCom Dissertation Topic at the University of Cape Town
-
-N/A
-
-2015 - 2017
-
-**Supervisor: Kanshukan Rajaratnam**
-
-This dissertation was submitted as my M.Com (Finance) degree requirement at the
-University of Cape Town (UCT) and as such it is available online from UCT Libraries
-under their open access policy.
-
-The dissertation uses **statistical methods** and in particular **Factor Models** 
-to:
-
-  - Discover variables that can be used as predictors of investment return.  
-  - Simulate and compare a large number of trading strategies.  
-  - Conduct testing to make models more robust and consistent.  
-  - Monitor model performance over time.  
-  - Correct for errors and changes that arise in model specification.  
-
-These can be applied to:
-
- - The analysis of quantitative data in other fields. 
- - Gain a deeper understanding of other financial markets and industries.  
  
-The process of writing a dissertation has meant I have skills:
-Learning new concepts quickly.
-
-  - Conducting research in a way that is comprehensive and detailed.  
-  - Writing reports that are clear and authoritative.  
-  - Reading and summarising large amounts of information in a short time.  
-  - Managing time and meeting deadlines.  
