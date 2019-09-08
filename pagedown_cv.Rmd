@@ -71,7 +71,7 @@ Main
 James Laird-Smith {#title}
 --------------------------------------------------------------------------------
 
-### Data Scientist working in London
+<!-- ### Data Scientist working in London -->
 
 
 Education {data-icon=graduation-cap data-concise=true}
