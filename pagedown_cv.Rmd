@@ -319,10 +319,10 @@ to:
 <!--   - Reading and summarising large amounts of information in a short time.   -->
 <!--   - Managing time and meeting deadlines.  -->
 
-<i class="fab fa-r-project"></i> R Packages {data-icon=blank .break-after-me} 
+<i class="fab fa-r-project"></i> Packages {data-icon=blank .break-after-me} 
 --------------------------------------------------------------------------------
 
-### **`gs`**: (author, maintainer).
+### **{gs}** (author, maintainer).
 
 A grammar of recurring calendar events.
 A package to make recurring calendar events a little easier 
@@ -342,6 +342,24 @@ The package includes functions to:
     in July" but "before the last weekday of August".  
   * Compose the above elements together in arbitrarily complex patterns.  
 
+
+Conference Presentations {data-icon=microphone}
+--------------------------------------------------------------------------------
+
+### Introducing {gs}
+
+EARL
+
+London, United Kingdom
+
+2019
+
+::: concise
+At this presentation I introduced {gs}, which is a grammar of recurring 
+calendar events, implemented as an R package. It enables users to easily 
+create and work with schedules, even in cases when the pattern of events is
+irregular.
+:::
 
 <i class="fas fa-chalkboard-teacher"></i> Teaching Experience {data-icon=blank}
 --------------------------------------------------------------------------------
