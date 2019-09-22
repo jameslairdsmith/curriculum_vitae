@@ -322,16 +322,16 @@ to:
 <i class="fab fa-r-project"></i> Packages {data-icon=blank .break-after-me} 
 --------------------------------------------------------------------------------
 
-### **{gs}** (author, maintainer).
+### **{gs}**
 
-A grammar of recurring calendar events.
-A package to make recurring calendar events a little easier 
-by providing a simple grammar for expressing them using R code.
+Author and maintainer
 
 N/A
 
 Nov 2018 - (present)
 
+A package to make recurring calendar events a little easier 
+by providing a simple grammar for expressing them using R code.
 The package includes functions to:  
 
   * Represent all kinds of date elements found in the `lubridate`
