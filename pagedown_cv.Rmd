@@ -392,7 +392,9 @@ Cape Town, South Africa
 
 Speech & Debate Achievements {data-icon=comments}
 --------------------------------------------------------------------------------
-
+::: aside
+All in the British Parliamentary (BP) format.
+:::
 ### Finalist
 
 South African National Universities Debating Championships (SANUDC)
