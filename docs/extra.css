@@ -33,6 +33,26 @@
   break-after: page;
 }
 
+#main h2 > .fa-code-branch{
+  left: calc(var(--main-blocks-title-icon-offset-left) + 4.36pt);
+  top: 2pt;
+}
+
+#main h2 > .fa-r-project{
+  left: calc(var(--main-blocks-title-icon-offset-left) - 1pt);
+  top: 2pt;
+}
+
+#main h2 > .fa-microphone{
+  left: calc(var(--main-blocks-title-icon-offset-left) + 1.75pt);
+  top: 2pt;
+}
+
+#main h2 > .fa-file{
+  left: calc(var(--main-blocks-title-icon-offset-left) + 1.25pt);
+  top: 2pt;
+}
+
 /*
 .fa-s-project:before{content:"\a";}
 
