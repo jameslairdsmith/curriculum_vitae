@@ -34,7 +34,7 @@
 }
 
 #main h2 > .fa-code-branch{
-  left: calc(var(--main-blocks-title-icon-offset-left) + 4pt);
+  left: calc(var(--main-blocks-title-icon-offset-left) + 4.36pt);
   top: 2pt;
 }
 

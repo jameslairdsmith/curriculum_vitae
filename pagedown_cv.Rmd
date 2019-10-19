@@ -146,15 +146,17 @@ N/A
 
 N/A
 
-2018 - (present)
+N/A
 
-::: concise
-- Creating repos
-- Push and pull
-- Branches
-- Forking
-- Pull requests
-:::
+<!-- 2018 - (present) -->
+
+<!-- ::: concise -->
+<!-- - Creating repos -->
+<!-- - Push and pull -->
+<!-- - Branches -->
+<!-- - Forking -->
+<!-- - Pull requests -->
+<!-- ::: -->
 
 ### JavaScript (for visualisation)
 
@@ -164,10 +166,8 @@ N/A
 
 2018 - (present)
 
-::: concise
 - d3.js
 - Vega and Vega-Lite
-:::
 
 ### Python (for data science)
 
@@ -177,11 +177,10 @@ N/A
 
 2015 - 2017
 
-::: concise
 - pandas
 - Matplotlib
 - statsmodels
-:::
+
 
 <!-- ### HTML and CSS -->
 
@@ -243,7 +242,7 @@ My responsibilities included:
 
 _Maitland Group South Africa_
 
-Cape Town, ZA  
+Cape Town, South Africa
 
 Mar 2015 - Nov 2017
 
@@ -360,18 +359,16 @@ Jan 2019
 
 EARL
 
-London, United Kingdom
+London, UK
 
 Sep 2019
 
 **Contributed talk**
 
-::: concise
 At this presentation I introduced {gs}, which is a grammar of recurring 
 calendar events, implemented as an R package. It enables users to easily 
 create and work with schedules, even in cases when the pattern of events is
 irregular.
-:::
 
 ::: aside
 Enterprise Applications of the R Language
