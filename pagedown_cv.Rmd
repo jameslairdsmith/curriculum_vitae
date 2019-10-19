@@ -355,6 +355,10 @@ Jan 2019
 
 **E-Poster**
 
+::: aside
+RStudio Conference
+:::
+
 ### Introducing {gs}
 
 EARL
