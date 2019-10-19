@@ -348,17 +348,33 @@ Conference Presentations {data-icon=microphone}
 
 ### Introducing {gs}
 
+rstudio::conf
+
+San Francisco, USA
+
+Jan 2019
+
+**E-Poster**
+
+### Introducing {gs}
+
 EARL
 
 London, United Kingdom
 
-2019
+Sep 2019
+
+**Contributed talk**
 
 ::: concise
 At this presentation I introduced {gs}, which is a grammar of recurring 
 calendar events, implemented as an R package. It enables users to easily 
 create and work with schedules, even in cases when the pattern of events is
 irregular.
+:::
+
+::: aside
+Enterprise Applications of the R Language
 :::
 
 <i class="fas fa-chalkboard-teacher"></i> Teaching Experience {data-icon=blank}
