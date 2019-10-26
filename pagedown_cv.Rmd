@@ -342,7 +342,7 @@ The package includes functions to:
   * Compose the above elements together in arbitrarily complex patterns.  
 
 
-Conference Presentations {data-icon=microphone}
+Conference Proceedings {data-icon=microphone}
 --------------------------------------------------------------------------------
 
 ### Introducing {gs}
