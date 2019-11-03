@@ -199,7 +199,7 @@ N/A
 Employment History {data-icon=suitcase .break-after-me}
 --------------------------------------------------------------------------------
 
-### Analyst (Customer Analytics)
+### Data Analyst
 
 _The Financial Times_ (FT)
 
