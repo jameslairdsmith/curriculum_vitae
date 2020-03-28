@@ -231,7 +231,7 @@ and analysis of the FT's internal data.
 
 My responsibilities have included:
 
-  - Product initiative scoring and prioritisation.
+  - Product initiative assessment, scoring and evaluation.
   - Modelling the FT's subscriber retention.
   - Evaluating business changes using financial models.
   - Segmenting and targeting and customers using data.
@@ -372,8 +372,13 @@ Jan 2019
 
 **E-Poster**
 
+For this conference I was asked to create an interactive presentation 
+showcasing the {gs} package, the details of which can be found on the previous
+page. The session for presenting the e-posters was held during the conference 
+opening function.
+
 ::: aside
-RStudio Conference
+RStudio's annual Conference
 :::
 
 ### Introducing {gs}
@@ -386,10 +391,8 @@ Sep 2019
 
 **Contributed talk**
 
-At this presentation I introduced {gs}, which is a grammar of recurring 
-calendar events, implemented as an R package. It enables users to easily 
-create and work with schedules, even in cases when the pattern of events is
-irregular.
+For this conference I was asked to deliver a 30 minute presentation on the {gs}
+package, the details of which can be found on the previous page.
 
 ::: aside
 Enterprise Applications of the R Language
