@@ -71,7 +71,24 @@ Main
 James Laird-Smith {#title}
 --------------------------------------------------------------------------------
 
-### Data Analyst working in London
+### Data Scientist working in London
+
+
+Current role {data-icon=suitcase data-concise=true}
+--------------------------------------------------------------------------------
+
+### Data Scientist
+
+_The Financial Times_ (FT)
+
+London, UK
+
+Mar 2020 - (present)
+
+The FT has over 600 journalists that work in 40 bureaux around the 
+world. We have over one million paid subscribers. The team in which I work is
+called _Customer Analytics_; we are responsible for the collection, management 
+and analysis of the FT's internal data.
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -109,7 +126,7 @@ Completed higher-level courses in:
   - Financial research
 :::
 
-Programming Skills {data-icon=code-branch}
+Programming Skills {data-icon=code-branch .break-after-me}
 --------------------------------------------------------------------------------
 
 ### R
@@ -158,28 +175,28 @@ N/A
 <!-- - Pull requests -->
 <!-- ::: -->
 
-### JavaScript (for visualisation)
+<!-- ### JavaScript (for visualisation) -->
 
-*Level: intermediate*
+<!-- *Level: intermediate* -->
 
-N/A
+<!-- N/A -->
 
-2018 - (present)
+<!-- 2018 - (present) -->
 
-- d3.js
-- Vega and Vega-Lite
+<!-- - d3.js -->
+<!-- - Vega and Vega-Lite -->
 
-### Python (for data science)
+<!-- ### Python (for data science) -->
 
-*Level: intermediate*
+<!-- *Level: intermediate* -->
 
-N/A
+<!-- N/A -->
 
-2015 - 2017
+<!-- 2015 - 2017 -->
 
-- pandas
-- Matplotlib
-- statsmodels
+<!-- - pandas -->
+<!-- - Matplotlib -->
+<!-- - statsmodels -->
 
 
 <!-- ### HTML and CSS -->
