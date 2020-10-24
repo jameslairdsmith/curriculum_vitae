@@ -4,7 +4,7 @@ author: James Laird-Smith
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
-    css: ["resume", "extra.css", "css/academicons.min.css"]
+    css: ["resume", "css/extra.css", "css/academicons.min.css"]
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: true
 ---
