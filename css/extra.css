@@ -11,6 +11,10 @@
     margin-bottom: 0.25rem;
 }
 
+h4 {
+    margin-bottom: 0.25rem;
+}
+
 [data-id="main"] li::before {margin-left: -6.5pt;}
 
 /*.details .concise ul {
