@@ -83,9 +83,9 @@ _The Financial Times_ (FT)
 
 London, UK
 
-N/A
+March 2020 - (present)
 
-<sup>See next page for more details and full employment history</sup>
+<sup>* See [Employment History] on next page for more details</sup>
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -98,7 +98,8 @@ Cape Town, South Africa
 
 2015 - 2017
 
-Thesis: _Market Betas on the JSE:   
+Thesis Topic:  
+_Market Betas on the JSE:   
 Market Segmentation, Estimation & Empirical Evaluation_
 
 ### University of Cape Town
@@ -109,9 +110,10 @@ Cape Town, South Africa
 
 2009 - 2014
 
-Specialisation: Finance
+<sup>Specialisation: Finance</sup>
 
-Completed higher-level courses in:
+As part of this undergraduate degree program, I completed the following 
+higher-level courses:
 
 ::: concise
   - Research and survey statistics
@@ -213,8 +215,8 @@ Employment History {data-icon=suitcase .break-after-me}
 --------------------------------------------------------------------------------
 
 ::: aside
-Before moving to the Data Team, I was a Data Analyst working as part of our 
-Insights team, which is also part of our Customer Analytics department.
+The FT is an international print and digital newspaper with a focus on business 
+and economic current affairs. 
 :::
 
 ### Data Scientist
@@ -225,15 +227,21 @@ London, UK
 
 Nov 2018 - (present)
 
-^**Formally: Data Analyst (up to Feb 2020)**^
+^**Previous role: Data Analyst (up to Feb 2020)**^
 
-The FT is an international print and digital newspaper with a focus on business 
-and economic current affairs. The Data Science team is responsible for
+Th FT's Data Science team is responsible for
 creating and productionising statistical and machine learning models for use
 within the organisation. While at the FT, I have been involved
 in the following initiatives:
 
-* 
+*  As part of our product strategy I undertook a project to attribute value
+   to our various product categories. This involved determining how much
+   monetary value and engagement each part of our digital real-estate was 
+   generating.
+* I've been involved in training other members of staff in how to use R.
+
+Before moving to the Data Science team, I was a Data Analyst working as part of 
+our Insights team, which is also part of our Customer Analytics department.
 
 
 ### Analyst
@@ -244,10 +252,12 @@ London, UK
 
 May 2018 - Jul 2018
 
-ICBCS is a financial markets and commodities bank based in London and with 
-offices all around the world. The Client Referential Data (CRD) team is 
-responsible for managing client static and reference data used across the bank.
+::: aside
+ICBCS is a global financial markets and commodities bank based in London.
+:::
 
+The Client Referential Data (CRD) team is 
+responsible for managing client static and reference data used across the bank.
 My responsibilities included:  
 
  - Capture and maintenance of client data and settlement instructions.
@@ -263,10 +273,14 @@ Cape Town, South Africa
 
 Mar 2015 - Nov 2017
 
+<!-- of pension funds, mutual funds, hedge funds and -->
+<!-- private equity funds. Maitland has offices in 13 countries and has $280 billion  -->
+<!-- in assets under administration. -->
+
+::: aside
 Maitland Group is a global advisory and administration firm providing third-party 
-fund administration to managers of pension funds, mutual funds, hedge funds and
-private equity funds. Maitland has offices in 13 countries and has $280 billion 
-in assets under administration.
+fund administration to money managers.
+::: 
 
 My responsibilities included:
 
@@ -279,7 +293,52 @@ My responsibilities included:
   - Using systems from FIS and Neoxam (both previously Sungard)
   - Using systems from Broadridge Financial Solutions (formally called 
     Paladyne Systems)
-    
+
+<i class="fab fa-r-project"></i> Programming Skills {data-icon=blank .break-after-me} 
+-------------------------------------------------------------------------------- 
+
+### R
+
+I've been using R for many years now and so I think it's worth providing some 
+more detail on the skills I have gained.
+
+N/A 
+
+2014 - (present)
+
+::: aside
+R is a programming language and free software environment for statistical 
+computing and graphics
+:::
+
+#### Package development
+
+#### Data visualisation
+
+I've contributed extensively to the the FT's internally build ggplot2 theme,
+which is called ftplottools. In doing so, I've added extra options to customise
+placement of plot components and to make text rendering more accessible.
+
+#### Statistics
+
+#### Automation
+
+### SQL
+
+N/A
+
+N/A 
+
+N/A
+
+### Vega-Lite (in JavaScript)
+
+N/A
+
+N/A 
+
+N/A
+
 Academic Publication {data-icon=file}
 --------------------------------------------------------------------------------
 
