@@ -364,7 +364,7 @@ N/A
 
 ::: aside
 SQL is a domain-specific language used in programming and designed for 
-managing data held in a relational database management system
+managing data held in a relational database management system.
 :::
 
 I've been using SQL for many years now and am completely comfortable with all
