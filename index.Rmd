@@ -83,13 +83,9 @@ _The Financial Times_ (FT)
 
 London, UK
 
-Mar 2020 - (present)
+N/A
 
-The FT has over 600 journalists that work in 40 bureaux around the 
-world. We have over one million paid subscribers. The team in which I work is
-called _Customer Analytics_; we are responsible for the collection, management 
-and analysis of the FT's internal data.
-
+<sup>See next page for more details and full employment history</sup>
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -216,7 +212,12 @@ N/A
 Employment History {data-icon=suitcase .break-after-me}
 --------------------------------------------------------------------------------
 
-### Data Analyst
+::: aside
+Before moving to the Data Team, I was a Data Analyst working as part of our 
+Insights team, which is also part of our Customer Analytics department.
+:::
+
+### Data Scientist
 
 _The Financial Times_ (FT)
 
@@ -224,17 +225,16 @@ London, UK
 
 Nov 2018 - (present)
 
-The FT has over 600 journalists that work in 40 bureaux around the 
-world. We have over one million paid subscribers. The team in which I work is
-called _Customer Analytics_; we are responsible for the collection, management 
-and analysis of the FT's internal data.
+^**Formally: Data Analyst (up to Feb 2020)**^
 
-My responsibilities have included:
+The FT is an international print and digital newspaper with a focus on business 
+and economic current affairs. The Data Science team is responsible for
+creating and productionising statistical and machine learning models for use
+within the organisation. While at the FT, I have been involved
+in the following initiatives:
 
-  - Product initiative assessment, scoring and evaluation.
-  - Modelling the FT's subscriber retention.
-  - Evaluating business changes using financial models.
-  - Segmenting and targeting and customers using data.
+* 
+
 
 ### Analyst
 
