@@ -343,7 +343,7 @@ profvis.
 
 #### Data visualisation
 
-I've contributed extensively to the the FT's internally build ggplot2 theme,
+I've contributed extensively to the the FT's internally built ggplot2 theme,
 which is called ftplottools. In doing so, I've added extra options to customise
 placement of plot components and to make text rendering more accessible.
 
