@@ -79,11 +79,11 @@ Current role {data-icon=suitcase data-concise=true}
 
 ### Data Scientist
 
-_The Financial Times_ (FT)
+_Bank of England_
 
 London, UK
 
-March 2020 - (present)
+July 2021 - (present)
 
 <sup>* See [Employment History] section on next page for more details.</sup>
 
@@ -112,8 +112,8 @@ Cape Town, South Africa
 
 <sup>Specialisation: Finance</sup>
 
-As part of this undergraduate degree program, I completed the following 
-higher-level courses:
+<!-- As part of this undergraduate degree program,  -->
+I completed the following higher-level courses:
 
 ::: concise
   - Research and survey statistics
@@ -129,7 +129,7 @@ Programming Skills Summary {data-icon=code-branch .break-after-me}
 
 ### R
 
-*Level: Advanced*
+*Level: Expert*
 
 N/A
 
@@ -216,10 +216,21 @@ N/A
 Employment History {data-icon=suitcase .break-after-me}
 --------------------------------------------------------------------------------
 
+
+### Data Scientist
+
+_Bank of England_
+
+London, UK
+
+July 2021 - (present)
+
 ::: aside
-The FT is an international print and digital newspaper with a focus on business 
-and economic current affairs. 
+The Bank of England is the central bank of the United Kingdom
 :::
+
+I am the main architect behind the Bank's big data tooling. I also lead projects
+with various Bank departments to modernise their data science practices.
 
 ### Data Scientist
 
@@ -227,16 +238,21 @@ _The Financial Times_ (FT)
 
 London, UK
 
-Nov 2018 - (present)
+Nov 2018 - July 2021
+
+::: aside
+The FT is an international print and digital newspaper with a focus on business 
+and economic current affairs. 
+:::
 
 ^**Previous role: Data Analyst (up to Feb 2020)**^
 
 The FT's Data Science team is responsible for
 creating and productionising statistical and machine learning models for use
-within the organisation. While at the FT, I have been involved
+within the organisation. While at the FT, I was involved
 in the following initiatives:
 
-*  I've been at the forefront of developing our Lifetime Value (LTV) modeling,
+*  I was at the forefront of developing our Lifetime Value (LTV) modeling,
    where we estimate how likely each of our customers are to renew their 
    subscriptions.
 *  As part of our product strategy I undertook a project to attribute value
@@ -267,14 +283,11 @@ May 2018 - Jul 2018
 ICBCS is a global financial markets and commodities bank based in London.
 :::
 
-The Client Referential Data (CRD) team is 
-responsible for managing client static and reference data used across the bank.
-My responsibilities included:  
+I worked in the the Client Referential Data (CRD) team which is responsible for
+managing client static and reference data used across the bank.
 
- - Capture and maintenance of client data and settlement instructions.
- - Managing subscriptions from market data sources.
- - Performing reconciliations between internal systems.
-
+<!-- My responsibilities included 1) capture and maintenance of client data and settlement instructions, -->
+<!-- 2) Managing subscriptions from market data sources and 3) Performing reconciliations between internal systems. -->
 
 ### Specialist
 
@@ -294,13 +307,13 @@ fund administration to money managers.
 ::: 
 
 While at Maitland, I was part of the Instrument and Fund Setup team.
-My responsibilities included:
+<!-- My responsibilities included: -->
 
-  - Import and maintenance of client reference data.  
-  - The import of financial data from market sources (Bloomberg, Reuters etc).  
-  - Building integration between systems and applications.  
-  - Provide analysis and output data for audit and compliance purposes, as
-    well as for management reports.  
+<!--   - Import and maintenance of client reference data.   -->
+<!--   - The import of financial data from market sources (Bloomberg, Reuters etc).   -->
+<!--   - Building integration between systems and applications.   -->
+<!--   - Provide analysis and output data for audit and compliance purposes, as -->
+<!--     well as for management reports.   -->
     
   <!-- - Providing bespoke reporting to clients.   -->
   <!-- - Using systems from FIS and Neoxam (both previously Sungard) -->
