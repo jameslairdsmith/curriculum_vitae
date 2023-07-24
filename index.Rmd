@@ -229,8 +229,18 @@ July 2021 - (present)
 The Bank of England is the central bank of the United Kingdom
 :::
 
-I am the main architect behind the Bank's big data tooling. I also lead projects
-with various Bank departments to modernise their data science practices.
+I have two broad roles that I fulfill at the Bank. In the first place, am the
+main architect behind the Bank's big data user infrastructure and tooling. I 
+also lead projects with various Bank departments to improve their
+data science processes and practices. A few notable items from my work:
+
+- I have built and maintain an array of web-scrapers which collect data the 
+  Bank requires for its operations.
+- I have built and maintain 7 R packages that enable Bank staff to conduct data
+  analysis on the Bank's big data servers.
+- I have built and now administer a custom automation system to allow Bank 
+  staff to automate potentially long or intensive data operations.
+- I have lead work to modernise one of the Bank's important statistical models.
 
 ### Data Scientist
 
@@ -264,12 +274,12 @@ in the following initiatives:
    subscription revenue.
 *  I've been involved in training other members of staff in how to use R.
 
-Before moving to the Data Science team, I was a Data Analyst working as part of 
-our Insights team, which is also part of our Customer Analytics department. 
-During this time I was:
+<!-- Before moving to the Data Science team, I was a Data Analyst working as part of  -->
+<!-- our Insights team, which is also part of our Customer Analytics department.  -->
+<!-- During this time I was: -->
 
-* The person responsible for all product-related analysis.
-* In charge of administering all the FT's A/B testing.
+<!-- * The person responsible for all product-related analysis. -->
+<!-- * In charge of administering all the FT's A/B testing. -->
 
 ### Analyst
 
@@ -284,7 +294,9 @@ ICBCS is a global financial markets and commodities bank based in London.
 :::
 
 I worked in the the Client Referential Data (CRD) team which is responsible for
-managing client static and reference data used across the bank.
+managing client static and reference data.
+
+<!-- used across the bank. -->
 
 <!-- My responsibilities included 1) capture and maintenance of client data and settlement instructions, -->
 <!-- 2) Managing subscriptions from market data sources and 3) Performing reconciliations between internal systems. -->
@@ -325,7 +337,7 @@ Programming Skills{data-icon=code-branch .break-after-me}
 
 ### R
 
-Level: Advanced
+Level: Expert
 
 N/A
 
