@@ -229,18 +229,18 @@ July 2021 - (present)
 The Bank of England is the central bank of the United Kingdom
 :::
 
-I have two broad roles that I fulfill at the Bank. In the first place, am the
+I have two broad roles that I fulfill at the Bank. In the first place, I am the
 main architect behind the Bank's big data user infrastructure and tooling. I 
 also lead projects with various Bank departments to improve their
 data science processes and practices. A few notable items from my work:
 
 - I have built and maintain an array of web-scrapers which collect data the 
   Bank requires for its operations.
-- I have built and maintain 7 R packages that enable Bank staff to conduct data
-  analysis on the Bank's big data servers.
+- I have built and maintain many R packages that enable Bank staff to conduct 
+  data analysis on the Bank's big data servers.
 - I have built and now administer a custom automation system to allow Bank 
   staff to automate potentially long or intensive data operations.
-- I have lead work to modernise one of the Bank's important statistical models.
+- I have led work to modernise one of the Bank's important statistical models.
 
 ### Data Scientist
 
